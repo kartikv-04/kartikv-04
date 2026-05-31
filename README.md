@@ -8,19 +8,14 @@ Full-stack engineer based in Vadodara. CS Graduate 2026. Stronger on the backend
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kartikv-04)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kartikvaria.dev@gmail.com)
 
----
-
 ## 🛠️ Stack
 
-| | |
-|---|---|
-| **Languages** | JavaScript (ES6+), TypeScript, Python |
-| **Backend** | Node.js, Express.js, REST APIs, WebSocket, JWT, RBAC, Zod |
-| **Frontend** | React.js, Next.js, TanStack Query, Tailwind CSS |
-| **Databases** | MongoDB, PostgreSQL, Supabase |
-| **Tools** | Git, Postman, Vercel, Render |
-
----
+| Languages  | JavaScript (ES6+), TypeScript, Python |
+| :--- | :--- |
+| Backend | Node.js, Express.js, REST APIs, WebSocket, JWT, RBAC, Zod |
+| Frontend | React.js, Next.js, TanStack Query, Tailwind CSS |
+| Databases | MongoDB, PostgreSQL, Supabase |
+| Tools | Git, Postman, Vercel, Render |
 
 ## 🚀 Projects
 
@@ -31,20 +26,14 @@ Full-stack engineer based in Vadodara. CS Graduate 2026. Stronger on the backend
 | [Stack-Hub](https://github.com/kartikv-04/Stack-hub) | TypeScript · Puppeteer · Cron | Automated price tracker for Amazon and Flipkart with email alerts and exponential backoff |
 | [E-Commerce Platform](https://github.com/kartikv-04/E-Commerce-Application) | Next.js · Node.js · MongoDB | Multi-role platform with RBAC, guest cart sync, and all four Next.js rendering strategies |
 
----
-
 ## 💼 Experience
 
-**SDE Intern — Protap** *(Jan 2026 – May 2026)*  
+**SDE Intern — Protap** *(Jan 2026 – May 2026)*
 Built backend systems from scratch at a fast-paced startup — auth, APIs, RBAC, and full module ownership end-to-end.
-
----
 
 ## 🏆 Achievements
 
-🥈 **Illuminati Hackathon — 2nd Place** (2025, 40+ teams)  
-Led backend of LabSeva healthcare platform in 24 hours.
+🥈 **Illuminati Hackathon — 2nd Place** (2025, 40+ teams)
+Led backend of LabikSeva healthcare platform in 24 hours.
 
----
-
-*Open to Backend, Full-Stack, and SDE roles — internships and full-time.*
+*Open to Backend, Full-Stack, and SDE roles — internships and full-time.*   Now any suggestion first say onely
